@@ -1,5 +1,5 @@
 # Hi, I'm Pedro! <a href="https://pedrinholeda.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-- 🔭  I’m currently working on IOS Development
+- 🔭  I’m currently working on IOS Development.
 
 <div>
   <a href="https://pedrinholeda.github.io/">
