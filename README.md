@@ -18,8 +18,6 @@
   <img align="center" alt="Pedro-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div> -->
-  <img align="right" alt="Pedro" height="100" width="100" src="https://media3.giphy.com/media/3mypmTXchZkP0DocgE/giphy.gif?cid=790b76115adc03cbb315e5100a077917feaf059e6f2a8f58&rid=giphy.gif&ct=g">
-
   
 ## Social
   <div> 
