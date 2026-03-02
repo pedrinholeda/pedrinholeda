@@ -1,58 +1,50 @@
-# 👋 Hi, I'm Pedro Léda
+# Pedro Léda
 
-### 📱 Mobile Engineer | iOS • React Native • Flutter
+Mobile Engineer focused on building high-quality iOS and cross-platform applications.
 
-I build scalable, high-performance mobile applications with a strong focus on architecture, clean code and user experience.
-
-Currently working with native iOS and cross-platform technologies to deliver real-world products.
+I work with native and cross-platform technologies to deliver scalable, maintainable and performance-driven mobile products.
 
 ---
 
-## 🧠 About Me
+## About
 
-- 📱 4+ years building mobile applications
-- 🏗 Strong focus on architecture (MVVM, Clean Architecture)
-- ⚡ Experience with native and cross-platform ecosystems
-- 🚀 Passionate about performance, scalability and product thinking
+- 📱 iOS (Swift, UIKit, SwiftUI)
+- ⚛️ React Native
+- 🐦 Flutter
+- 🏗 Clean Architecture • MVVM • SOLID
+- 🚀 Performance & product-oriented mindset
 - 🇧🇷 Based in Brasília, Brazil
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 📱 Mobile Development
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**Mobile**
+Swift • UIKit • SwiftUI • React Native • Flutter
 
-### 🏗 Architecture & Tools
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+**Languages**
+Swift • TypeScript • JavaScript • Dart
+
+**Tools**
+Xcode • Android Studio • Git • REST APIs • Firebase
 
 ---
 
-## 📊 GitHub Overview
+## What I Focus On
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pedrinholeda&show_icons=true&theme=transparent&hide_border=true&count_private=true" 
-    height="170"
-  />
-</p>
+- Building scalable mobile architectures  
+- Writing clean, maintainable code  
+- Creating smooth and performant user experiences  
+- Choosing native or cross-platform based on product needs  
 
 ---
 
-## 🌎 Let's Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-l-4b1658145/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrinholeda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedrinholeda.github.io/)
+LinkedIn: https://www.linkedin.com/in/pedro-henrique-l-4b1658145/  
+Instagram: https://instagram.com/pedrinholeda  
+Portfolio: https://pedrinholeda.github.io/
 
 ---
 
-💬 Open to collaborations, freelance opportunities and challenging mobile projects.
+Open to challenging mobile projects and collaborations.
