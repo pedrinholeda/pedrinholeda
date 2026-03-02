@@ -1,31 +1,56 @@
-# Hi, I'm Pedro! <a href="https://pedrinholeda.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-- 🔭  I’m currently working on IOS Development.
+# 👋 Hi, I'm Pedro Léda
+
+### 📱 Mobile Engineer | iOS • React Native • Flutter
+
+I build scalable, high-performance mobile applications with a strong focus on architecture, clean code and user experience.
+
+Currently working with native iOS and cross-platform technologies to deliver real-world products.
+
+---
+
+## 🧠 About Me
+
+- 📱 4+ years building mobile applications
+- 🏗 Strong focus on architecture (MVVM, Clean Architecture)
+- ⚡ Experience with native and cross-platform ecosystems
+- 🚀 Passionate about performance, scalability and product thinking
+- 🇧🇷 Based in Brasília, Brazil
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 Mobile Development
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🏗 Architecture & Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div>
-  <a href="https://pedrinholeda.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrinholeda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinholeda&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  
-## Languages, Frameworks and Tools
-<!--   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-  ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
-<div style="display: inline_block"><br>  
-  <img align="center" alt="Pedro-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Pedro-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img align="center" alt="Pedro-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pedro-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-  
-## Social
-  <div> 
-  <a href="https://instagram.com/pedrinholeda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedro.henrique.leda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-l-4b1658145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--   ![Snake animation](https://github.com/pedrinholeda/pedrinholeda/blob/output/github-contribution-grid-snake.svg) -->
- 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrinholeda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinholeda&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+---
+
+## 🌎 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-l-4b1658145/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrinholeda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedrinholeda.github.io/)
+
+---
+
+💬 Open to collaborations, freelance opportunities and challenging mobile projects.
