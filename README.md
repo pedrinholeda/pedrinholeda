@@ -36,12 +36,14 @@ Currently working with native iOS and cross-platform technologies to deliver rea
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrinholeda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinholeda&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pedrinholeda&show_icons=true&theme=transparent&hide_border=true&count_private=true" 
+    height="170"
+  />
+</p>
 
 ---
 
